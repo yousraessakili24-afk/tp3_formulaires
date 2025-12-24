@@ -6,7 +6,7 @@ Yousra Essakili - Groupe A
 
 ## But du TP  
 
-Le but de ce TP est de construire le formulaire suivant en Symfony. 
+Le but de ce TP est de construire un formulaire  en Symfony. 
 
 ## Objectif
 Créer une page produit avec Symfony et un formulaire pour ajouter un produit au panier. Afficher un message de confirmation après la soumission.
