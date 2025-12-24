@@ -56,5 +56,8 @@ Créer une page produit avec Symfony et un formulaire pour ajouter un produit au
 
 ## Remarques 
 - Annotations #[Route(...)] non utilisées à cause de la version de Symfony.
-- Route définie via YAML. 
+- Route définie via YAML.
+
+  
+<img width="1672" height="803" alt="TP3_Formulaire_image" src="https://github.com/user-attachments/assets/05f36558-4b2a-423b-92ac-2c6ce5ba2968" />
 
