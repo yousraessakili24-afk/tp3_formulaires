@@ -21,6 +21,7 @@ Créer une page produit avec Symfony et un formulaire pour ajouter un produit au
 - Contrôleur créé avant la route YAML pour tester la logique PHP.
   
 3. Création du template HTML
+
 -Import de Bootstrap 5.3** :
      ```html
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
