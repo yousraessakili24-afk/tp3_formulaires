@@ -57,9 +57,5 @@ Créer une page produit avec Symfony et un formulaire pour ajouter un produit au
 ## Remarques 
 - Annotations #[Route(...)] non utilisées à cause de la version de Symfony.
 - Route définie via YAML. 
-
-
-
-
-    path: /product
-    controller: App\Controller\ProductController::show
+-path: /product
+-controller: App\Controller\ProductController::show
